@@ -1,0 +1,57 @@
+body{
+    background-image:url("../bilder/background-image1.jpg");
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 5px;
+    margin-left: 130px;
+    margin-right: 130px;
+
+}
+
+#about1{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#league-champs{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-inline: 120px;
+
+}
+
+#moreinfo{
+    color: white;
+    margin-left: 140px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link, a:visited{
+    background-color: whitesmoke;
+    color: black;
+    padding: 8px 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    color: blue;
+}
